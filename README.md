@@ -2,13 +2,13 @@
 
 ## 💻 Code-Beispiel (Python/Jupyter Notebook)
 <p align="center">
-  <img src="marktkampagne_code_preview.png" alt="Code Preview" width="90%">
+  <img src="marktcampagne_code_preview.png" alt="Code Preview" width="90%">
 </p>
 
 ## 📊 Analyse-Ergebnisse
 <p align="center">
-  <img src="marktkampagne_results_preview.png" alt="Results Preview" width="60%">
-</p>
+  <img src="campaign_feature_importance.png" alt="Feature Importance Results" width="60%">
+</p>  
 
 ---
 
